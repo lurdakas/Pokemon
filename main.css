@@ -1,0 +1,15 @@
+body, body *{
+    text-align: center;
+}
+.mtlg{
+    margin-top: 150px;
+}
+
+#pokemon-container{
+    height: 300px;
+}
+
+#pokemon{
+    height: 300px;
+    width: 250px;
+} 
